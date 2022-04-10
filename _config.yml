@@ -7,7 +7,7 @@
 
 # theme                    : minimal-ionio-jekyll # FOR LOCAL DEVELOPMENT PLEASE READ THE DOCS
 remote_theme             : p19pasc/minimal-ionio@test-aitima2
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "cloud"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "cloud"
 
 # Site Settings
 locale                   : "gr"
