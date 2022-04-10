@@ -287,7 +287,7 @@ defaults:
       author_profile: false
       read_time: false
       comments: # true
-      share: false
+      share: true
       related: false
       search: false
   # _people
@@ -300,7 +300,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: false
+      share: true
       related: false
   # _courses
   - scope:
@@ -312,7 +312,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: false
+      share: true
       related: false
   # _msc
   - scope:
@@ -324,7 +324,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: false
+      share: true
       related: false
   # _groups
   - scope:
@@ -348,7 +348,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: false
+      share: true
       related: false
  # _posts
   - scope:
