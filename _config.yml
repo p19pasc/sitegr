@@ -371,7 +371,7 @@ defaults:
       author_profile: false
       read_time: false
       comments: # true
-      share: false
+      share: true
       related: false
 pwa:
   sw_src_filepath: _site/assets/js/service-worker.js # Optional
